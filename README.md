@@ -4,4 +4,5 @@ This repository contains different source codes for the paper *DeePOE:Deep Learn
 
 
 If you use our idea or any part of the code please refer this following paper: 
+
 [1] Alec Riden,Debashri Roy, Tathagata Mukherjee, & Eduardo Pasiliao. (2021, October). DeePOE:Deep Learning for Position and Orientation Estimation. In IEEE Asia Pacific Conference onCommunications. [Accepted]
